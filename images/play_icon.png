@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0,user-scalable=0">
+		<link href="/style/css/index.css" rel="stylesheet" type="text/css" />
+		<link href="/style/css/reset.css" rel="stylesheet" type="text/css" />
+		<script type="text/javascript" src="/style/js/jquery.min.js"></script>
+		<title>错误页面_湖北普通专升本网</title>
+		<script src="https://s.hbjxjyw.com/KS_Inc/Kesion.DzCommon.js"></script>
+	</head>
+	<body>
+		<script src="/style/js/fontsize.js"></script>
+		<link rel="stylesheet" type="text/css" href="/style/css/mobile.css" />
+
+		<div class="body-top m_none">
+			<div class="w12">
+				<ul style="float: left;">
+					<li>湖北普通专升本网简称：<h1>湖北专升本网</h1> -（专注十二年）只做湖北普通专升本培训；国家工信部网站备案 网站实名：湖北普通专升本网</li>
+				</ul>
+				<ul class="topr fr">
+					<li><a href="/zuixingengxin/">最新更新</a></li>
+					<li><a href="/sitemap.html">升本导航</a></li>
+					<li><a href="javascript:;" onclick="alert('请使用 CTRL+D 快捷键添加本站到收藏夹');">收藏我们</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="header m_none">
+			<div class="w12">
+				<div class="logo"><a href="/"><img title="湖北普通专升本网" alt="湖北普通专升本网logo" src="/style/images/logo.png" /></a></div>
+				<div class="iconmenu">
+					<ul>
+						<li><a href="/xszn/" rel="nofollow"><img src="/style/images/20180522015116451.png" width="45" height="45" alt="新手指南" /><span>新手指南</span></a></li>
+						<li><a href="/qa/5598.html" rel="nofollow"><img src="/style/images/20180522015059147.png" width="45" height="45"
+								 alt="升本流程" /><span>升本流程</span></a></li>
+						<li><a href="/school/"><img src="/style/images/20180522015126228.png" width="45" height="45" alt="升本院校" /><span>升本院校</span></a></li>
+						<li><a href="/jz/"><img src="/style/images/20180522015137500.png" width="45" height="45" alt="升本简章" /><span>升本简章</span></a></li>
+						<li><a href="/zy/"><img src="/style/images/20180522015146747.png" width="45" height="45" alt="升本专业" /><span>升本专业</span></a></li>
+						<li><a href="/px/" rel="nofollow"><img src="/style/images/20180522015155683.png" width="45" height="45" alt="VIP通道" /><span>VIP通道</span></a></li>
+					</ul>
+				</div>
+				<!-- 搜索 -->
+				<div class="head_time fr">
+					<a>截至报名时间<span>5月29日</span>还剩<span class="on">
+							<script type="text/javascript" src="/style/js/shijian1.js"></script>
+						</span>天</a>
+					<a>距离<span>2021年7月28日</span>考试还有<span class="on">
+							<script type="text/javascript" src="/style/js/shijian2.js"></script>
+						</span>天</a>
+				</div>
+			</div>
+			<!-- end -->
+			<div class="nav">
+				<ul>
+					<li class="active"><a href="/">网站首页 </a></li>
+
+					<li><a href="/zc/" title="政策信息">政策信息 </a></li>
+
+					<li><a href="/jz/" title="招生简介">招生简章 </a></li>
+
+					<li><a href="/dg/" title="考试大纲">考试大纲 </a></li>
+
+					<li><a href="/school/" title="招生院校">招生院校 </a></li>
+
+					<li><a href="/zy/" title="招生专业">招生专业 </a></li>
+
+					<li><a href="/px/" rel="nofollow" title="考试培训">考试培训 </a></li>
+
+					<li><a href="/test/" title="专升本试题">在线试题 </a></li>
+
+					<li><a href="/qa/" title="常见问题">常见问题 </a></li>
+
+					<li><a href="/bm/" title="免费报名">免费报名 </a>
+					</li>
+
+				</ul>
+			</div>
+			<!-- End -->
+
+		</div>
+		<div class="clear"></div>
+
+		<div class="address m_none"><a href="/bmlc/"><strong>报考流程:</strong></a>
+			<ul>
+
+				<li><a href="/bmsj/" title="报名时间"> <span>报名时间</span></a> </li>
+
+				<li><a href="/bmtj/" title="报名条件"> <span>报名条件</span></a> </li>
+
+				<li><a href="/zkzdy/" title="准考证打印"> <span>准考证打印</span></a> </li>
+
+				<li><a href="/kssj/" title="考试时间"> <span>考试时间</span></a> </li>
+
+				<li><a href="/kskm/" title="考试科目"> <span>考试科目</span></a> </li>
+
+				<li><a href="/cjcx/" title="成绩查询"> <span>成绩查询</span></a> </li>
+
+				<li><a href="/lqcx/" title="录取查询"> <span>录取查询</span></a> </li>
+
+				<li><a href="/bmfy/" title="报名费用"> <span>报名费用</span></a> </li>
+
+				<li><a href="/xxff/" title="学习方法"> <span>学习方法</span></a> </li>
+
+				<li><a href="/sbft/" title="学员访谈"> <span>学员访谈</span></a> </li>
+
+				<li><a href="/sbqb/" title="专升本区别"> <span>专升本区别</span></a> </li>
+
+				<li><a href="/qa/5053.html" title="落榜怎么办？"> <span>落榜怎么办？</span></a> </li>
+
+			</ul>
+
+		</div>
+		<div class="address m_none"> <strong>其他城市:</strong>
+			<ul>
+
+				<li><a href="/wuhan/" title="武汉"> <span>武汉</span></a> </li>
+
+				<li><a href="/huangshi/" title="黄石"> <span>黄石</span></a> </li>
+
+				<li><a href="/shiyan/" title="十堰"> <span>十堰</span></a> </li>
+
+				<li><a href="/jingzhou/" title="荆州"> <span>荆州</span></a> </li>
+
+				<li><a href="/yichang/" title="宜昌"> <span>宜昌</span></a> </li>
+
+				<li><a href="/xiangyang/" title="襄阳"> <span>襄阳</span></a> </li>
+
+				<li><a href="/ezhou/" title="鄂州"> <span>鄂州</span></a> </li>
+
+				<li><a href="/jingmen/" title="荆门"> <span>荆门</span></a> </li>
+
+				<li><a href="/xiaogan/" title="孝感"> <span>孝感</span></a> </li>
+
+				<li><a href="/huanggang/" title="黄冈"> <span>黄冈</span></a> </li>
+
+				<li><a href="/xianning/" title="咸宁"> <span>咸宁</span></a> </li>
+
+				<li><a href="/suizhou/" title="随州"> <span>随州</span></a> </li>
+
+			</ul>
+
+		</div>
+
+
+
+
+
+
+		<!-- 手机端 -->
+		<div class="m_head m_flex_nowrap_between">
+			<div class="m_logo"><a href="/" title="湖北普通专升本网"><img src="/style/images/logo.png" alt="湖北普通专升本网logo"></a></div>
+			<div class="m_login"><img src="/style/images/icon_user.png" alt="湖北普通专升本网用户登录"></div>
+			<div class="m_menu"><img src="/style/images/icon.png" alt="湖北普通专升本网导航"></div>
+		</div>
+
+		<div class="m_head_nav">
+			<div class="m_head_nav_head"><span>快速导航</span><img id="m_back" src="/style/images/m_nav_close.png" alt="关闭"></div>
+			<div class="m_head_nav_weixin">
+				<div class="m_head_nav_img">
+					<img src="/style/images/weixin.png">
+				</div>
+				<div class="m_head_nav_txt">
+					<p>关注湖北普通专升本网公众号</p>
+					<p>免费获取专升本最新资讯和资料</p>
+				</div>
+				<a href="/qa/254.html">+关注</a>
+			</div>
+			<div class="m_head_nav_box">
+				<div class="tit m_head_nav_tit">
+					<span>报考指南</span>
+				</div>
+				<div class="m_head_nav_con">
+					<a href="/zc/">政策信息</a>
+					<a href="/jz/">招生简章</a>
+					<a href="/dg/">考试大纲</a>
+					<a href="/school/">专升本院校</a>
+					<a href="/zy/">专升本专业</a>
+					<a href="/px/">湖北专升本培训</a>
+					<a href="/test/">湖北专升本试题</a>
+					<a href="/qa/">常见问题</a>
+					<a href="/bmsj/">报名时间</a>
+					<a href="/bmtj/">报名条件</a>
+					<a href="/zkzdy/">准考证打印</a>
+					<a href="/kssj/">考试时间</a>
+					<a href="/kskm/">考试科目</a>
+					<a href="/cjcx/">成绩查询</a>
+					<a href="/lqcx/">录取查询</a>
+					<a href="/bmfy/">报名费用</a>
+					<a href="/xxff/">学习方法</a>
+					<a href="/sbft/">学员访谈</a>
+					<a href="/qa/244.html">报名时间及流程</a>
+					<a href="/qa/257.html">招生对象</a>
+					<a href="/qa/245.html">专升本考试时间</a>
+					<a href="/qa/246.html">成绩查询</a>
+					<a href="/qa/18.html">录取查询</a>
+					<a href="/qa/247.html">录取通知书</a>
+				</div>
+			</div>
+			<div class="m_head_nav_box">
+				<div class="tit m_head_nav_tit">
+					<span>招生院校</span>
+				</div>
+				<div class="m_head_nav_con">
+					<a href="/school/whqcxy/">武汉晴川学院</a>
+					<a href="/school/whcmxy/">武汉传媒学院</a>
+					<a href="/school/hbsmxy/">湖北商贸学院</a>
+					<a href="/school/whxy/">武汉学院</a>
+					<a href="/school/wcsyxy/">武昌首义学院</a>
+					<a href="/school/whsxy/">武汉商学院</a>
+					<a href="/school/whgckjxy/">武汉工程科技学院</a>
+					<a href="/school/wenhuaxy/">文华学院</a>
+					<a href="/school/jclgxy/">荆楚理工学院</a>
+					<a href="/school/hbdesfxy/">湖北第二师范学院</a>
+					<a href="/school/hgsfxy/">黄冈师范学院</a>
+					<a href="/school/hbqcgyxy/">湖北汽车工业学院</a>
+					<a href="/school/hbjjxy/">湖北经济学院</a>
+					<a href="/school/hbmzxy/">湖北民族大学</a>
+					<a href="/school/whtyxy/">武汉体育学院</a>
+					<a href="/school/jhdx/">江汉大学</a>
+					<a href="/school/cjdx/">长江大学</a>
+					<a href="/school/hbgcxy/">湖北工程学院</a>
+					<a href="/school/hbyyxy/">湖北医药学院</a>
+					<a href="/school/hbkjxy/">湖北科技学院</a>
+					<a href="/school/hblgxy/">湖北理工学院</a>
+					<a href="/school/hbwlxy/">湖北文理学院</a>
+					<a href="/school/whqgdx/">武汉轻工大学</a>
+					<a href="/school/hbsfdx/">湖北师范大学</a>
+					<a href="/school/hbzyydx/">湖北中医药大学</a>
+					<a href="/school/whfzdx/">武汉纺织大学</a>
+					<a href="/school/whdhxy/">武汉东湖学院</a>
+					<a href="/school/hkxy/">汉口学院</a>
+					<a href="/school/whgsxy/">武汉工商学院</a>
+					<a href="/school/whkjdx/">武汉科技大学</a>
+					<a href="/school/wclgxy/">武昌理工学院</a>
+					<a href="/school/wcgxy/">武昌工学院</a>
+					<a href="/school/whswgcxy/">武汉生物工程学院</a>
+					<a href="/school/hbgydx/">湖北工业大学</a>
+					<a href="/school/sxdx/">三峡大学</a>
+					<a href="/school/whgcdx/">武汉工程大学</a>
+					<a href="/school/hbdx/">湖北大学</a>
+				</div>
+			</div>
+			<div class="m_head_nav_box">
+				<div class="tit m_head_nav_tit">
+					<span>业余制专升本</span>
+				</div>
+				<div class="m_head_nav_con">
+					<a href="https://www.hbptzsbw.com/zkzsb/">自考专升本</a>
+					<a href="https://www.hbptzsbw.com/ckzsb/">成考专升本</a>
+					<a href="https://www.hbptzsbw.com/wjzsb/">网教专升本</a>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="err">
+			<div class="err_top">
+				<div class="fl"><img src="/style/images/404.png"></div>
+				<div class="fr">您访问的页面正在努力制作中
+					<p>您可以：返回<a href="javascript:window.history.back(-1);">上一页</a> 或者返回<a href="/index.html">首页</a></p>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+
+		<div class="footer">
+			<div class="dl_con">
+				<div class="width1200">
+					<dl>
+						<dt>新手指南</dt>
+
+						<dd><a href="/qa/4156.html" title="考试介绍">考试介绍</a></dd>
+
+						<dd><a href="/zy/" title="热门专业">热门专业</a></dd>
+
+						<dd><a href="/school/" title="招生院校">招生院校</a></dd>
+
+						<dd><a href="/bm/" title="新生报名">新生报名</a></dd>
+
+					</dl>
+					<dl>
+						<dt>学习方法</dt>
+
+						<dd><a href="/px/" rel="nofollow" title="专升本课程">专升本课程</a></dd>
+
+						<dd><a href="http://wx.hbjxjyw.com/examlist/id-1086.aspx" rel="nofollow" title="模拟考试系统">模拟考试系统</a></dd>
+
+						<dd><a href="/test/" rel="nofollow" title="升本真题">升本真题</a></dd>
+
+						<dd><a class="wxzc" rel="nofollow" title="网校注册">网校注册</a></dd>
+
+					</dl>
+					<dl>
+						<dt>成人专升本</dt>
+
+						<dd><a href="/zkzsb/" title="自考专升本">自考专升本</a></dd>
+
+						<dd><a href="/ckzsb/" title="成教专升本">成教专升本</a></dd>
+
+						<dd><a href="/wjzsb/" title="网教专升本">网教专升本</a></dd>
+
+						<dd><a href="" title="国开专升本">国开专升本</a></dd>
+
+					</dl>
+					<!--<dl>
+        <dt>成考报名</dt>
+        
+      </dl>-->
+					<dl class="mr0">
+						<dt>关于我们</dt>
+
+						<dd><a href="/qa/255.html" title="网站介绍" rel="nofollow">网站介绍</a></dd>
+
+						<dd><a href="/qa/5978.html" title="联系我们" rel="nofollow">联系我们</a></dd>
+
+						<dd><a href="/sitemap.html" title="网站地图">网站地图</a></dd>
+
+						<dd><a href="/tags.html" title="最新标签">最新标签</a></dd>
+					</dl>
+					<div class="dl_ewm">
+						<div class="wx"> <img src="/style/images/gzh.jpg" alt="专升本公众号">
+							<p>专升本公众号</p>
+						</div>
+						<div class="wx"><img src="/style/images/wxq.jpg" alt="专升本微信群">
+							<p>专升本微信群</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="copyright">
+				<p>湖北普通专升本网 版权所有 ©2006-2021 武汉易学堂教育科技有限公司 &nbsp; &nbsp; ICP备案号：<a href="http://beian.miit.gov.cn/" rel="nofollow">鄂ICP备14009716号-7</a>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.hbptzsbw.com/images/beian.png" width="20" height="20" />
+					公安备案号：<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42011102001594" rel="nofollow" target="_blank">42011102001594</a>
+				</p>
+			</div>
+		</div>
+
+
+		<div class="floating_ck m_none">
+			<dl>
+				<dt></dt>
+				<dd class="consult">
+					<span>微信交流群</span>
+					<div class="floating_left floating_ewm">
+						<i><img src="/style/images/wxq.jpg" alt="湖北普通专升本网微信交流群"></i>
+						<p class="qrcord_p01">扫一扫，专升本网送神秘大礼<br></p>
+						<p class="qrcord_p02">全国服务热线<br><b>027-86646545   <b></p>
+					</div>
+				</dd>
+				<dd class="words">
+					<span><a class="alert_kf" rel="nofollow">在线咨询</a></span>
+				</dd>
+				<dd class="quote">
+					<span>联系我们</span>
+					<div class="floating_left"><a href="tel:027-86646545" target="blank" rel="nofollow">电话:027-86646545</a></div>
+				</dd>
+				<dd class="qrcord">
+					<span>扫一扫</span>
+					<div class="floating_left floating_ewm">
+						<i><img src="/style/images/gzh.jpg" alt="湖北普通专升本网微信公众号"></i>
+						<p class="qrcord_p01">扫一扫，专升本网送神秘大礼<br></p>
+						<p class="qrcord_p02">全国服务热线<br><b>027-86646545   <b></p>
+					</div>
+				</dd>
+				<dd class="return">
+					<span onClick="gotoTop();return false;">返回顶部</span>
+				</dd>
+			</dl>
+		</div>
+
+
+
+		<!-- 手机端 -->
+
+		<div class="m_foot_top">
+			<a href="/qa/255.html">关于我们</a>
+			<a href="/bm/">在线报名</a>
+			<a href="/sitemap.html">网站地图</a>
+			<a href="/qa/5978.html">联系我们</a>
+			<p>版权所有 ©2006-2021 武汉易学堂教育科技有限公司 </p>
+			<p>ICP备案号：<a href="http://beian.miit.gov.cn/" rel="nofollow">鄂ICP备14009716号-7</a></p>
+			<p><img src="https://www.hbptzsbw.com/images/beian.png" width="20" height="20" />
+				公安备案号：<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42011102001594" rel="nofollow" target="_blank">42011102001594</a>
+			</p>
+		</div>
+		<div class="m_footer m_flex_nowrap_around m_w100 m_bg">
+			<a href="/qa/254.html">
+				<img src="/style/images/icon-gzh.png" alt="微信号">
+				<p>公众号</p>
+			</a>
+			<a href="/qa/3935.html">
+				<img src="/style/images/icon-jlq.png" alt="交流群">
+				<p>交流群</p>
+			</a>
+			<a href="/bm/">
+				<img src="/style/images/icon-wsbm.png" alt="网上报名">
+				<p>网上报名</p>
+			</a>
+			<a class="alert_kf">
+				<img src="/style/images/icon-zxzx.gif" alt="在线咨询">
+				<p>在线咨询</p>
+			</a>
+			<a href="tel:027-86646545">
+				<img src="/style/images/icon-tel.png" alt="电话咨询">
+				<p>电话咨询</p>
+			</a>
+		</div>
+
+
+		<div class="m_kf alert_kf">
+			<img src="/style/images/m_kf.png" alt="在线客服">
+		</div>
+
+
+
+		<script type="text/javascript" src="/style/js/top.js"></script>
+		<script src="/style/js/fixed.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			var NTKF_PARAM = {
+				"siteid": "kf_10365" /*网站siteid*/ ,
+				"settingid": "kf_10365_1539394585128" /*代码ID*/ ,
+				"uid": "" /*会员ID*/ ,
+				"uname": "" /*会员名*/ ,
+				"userlevel": "0" /*会员等级*/
+			}
+		</script>
+		<script type="text/javascript" src="http://dl.ntalker.com/js/xn6/ntkfstat.js?siteid=kf_10365" charset="utf-8"></script>
+		<script type="text/javascript">
+			$(".alert_kf").click(function() {
+				NTKF.im_openInPageChat('kf_10365_1539394585128');
+			});
+			$(".m_menu").click(function() {
+				$(".m_head_nav").toggleClass("on");
+				$("body").css("overflow", "hidden");
+			});
+			$("#m_back").click(function() {
+				$(".m_head_nav").toggleClass("on");
+				$("body").css("overflow", "initial");
+			});
+		</script>
+		<script type="text/javascript">
+			var mySwiper_weixin = new Swiper('.pc_swiper_weixin', {
+				autoplay: 3000, //可选选项，自动滑动
+				loop: true,
+				speed: 1000,
+				pagination: '.swiper-pagination',
+				paginationClickable: true,
+			})
+		</script>
+		<script type="text/javascript">
+			// 注册登录
+			function showoutreg() {
+				$.dialog.open("https://s.hbjxjyw.com/Plus/DZ/JiXuJiaoYu/OutSideLogin3.aspx?flag=1", {
+					id: "regbox",
+					lock: true,
+					fixed: true,
+					title: "用户注册",
+					width: 380,
+					height: 400,
+					max: false,
+					min: false
+				});
+			};
+
+			function showoutlogin() {
+				$.dialog.open("https://s.hbjxjyw.com/Plus/DZ/JiXuJiaoYu/OutSideLogin3.aspx", {
+					id: "loginbox",
+					lock: true,
+					fixed: true,
+					title: "用户登录",
+					width: 380,
+					height: 450,
+					max: false,
+					min: false
+				});
+			};
+
+			$("a.login_btn_login").click(function() {
+				showoutlogin();
+			});
+			$(".wxzc").click(function() {
+				showoutlogin();
+			});
+			$(".m_login").click(function() {
+				showoutlogin();
+			});
+			$("a.login_btn_register").click(function() {
+				showoutreg();
+			});
+		</script>
+
+
+	</body>
+</html>
